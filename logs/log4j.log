@@ -1,0 +1,151 @@
+[INFO ] 06-12-2023 16:09:45.836 [main] App - Connessione al DB esercizio_estrazioni eseguita.
+[INFO ] 06-12-2023 16:09:47.329 [main] App - Scelta nel menu: 5
+[INFO ] 06-12-2023 16:09:47.373 [main] App - Tabella estrazioni eliminata.
+[INFO ] 06-12-2023 16:09:47.374 [main] App - Tabella partecipante eliminata.
+[INFO ] 06-12-2023 16:09:47.390 [main] App - Processo reinizializzato.
+[INFO ] 06-12-2023 16:09:48.085 [main] App - Scelta nel menu: 1
+[INFO ] 06-12-2023 16:09:48.112 [main] App - Tabella partecipante creata.
+[INFO ] 06-12-2023 16:09:48.158 [main] App - Tabella estrazioni creata.
+[INFO ] 06-12-2023 16:09:48.224 [main] App - Tabella partecipanti popolata.
+[INFO ] 06-12-2023 16:09:48.729 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:48.754 [main] App - Partecipante estratto: Antonio, Padova. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:49.322 [main] App - Scelta nel menu: 3
+[INFO ] 06-12-2023 16:09:49.330 [main] App - Lista delle estrazioni, ordinate per numero di estrazioni decrescente, stampata.
+[INFO ] 06-12-2023 16:09:50.689 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:50.697 [main] App - Partecipante estratto: Simone, Torino. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:51.117 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:51.131 [main] App - Partecipante estratto: Matteo, Torino. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:51.481 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:51.493 [main] App - Partecipante estratto: Andrea, Treviso. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:51.800 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:51.808 [main] App - Partecipante estratto: Marco, Treviso. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:52.122 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:52.131 [main] App - Partecipante estratto: Greta, Milano. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:52.484 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:52.504 [main] App - Partecipante estratto: Giancarlo, Bari. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:52.878 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:52.905 [main] App - Partecipante estratto: Lorena, Torino. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:53.159 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:53.166 [main] App - Partecipante estratto: Daniele, Bari. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:53.431 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:53.446 [main] App - Partecipante estratto: Eleonora, Treviso. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:53.693 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:53.706 [main] App - Partecipante estratto: Christian, Milano. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:53.946 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:53.954 [main] App - Partecipante estratto: Marco, Treviso. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:54.191 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:54.201 [main] App - Partecipante estratto: Giulia C, Padova. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:55.294 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:55.313 [main] App - Partecipante estratto: Michele, Bari. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:55.542 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:55.557 [main] App - Partecipante estratto: Dino, Torino. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:55.768 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:55.775 [main] App - Partecipante estratto: Andrea, Treviso. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:55.999 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:56.014 [main] App - Partecipante estratto: Vincenzo, Milano. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:56.231 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:56.247 [main] App - Partecipante estratto: Edoardo, Treviso. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:56.458 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:56.466 [main] App - Partecipante estratto: Simone, Torino. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:56.675 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:56.684 [main] App - Partecipante estratto: Manuela, Torino. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:56.921 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:56.933 [main] App - Partecipante estratto: Daniele, Bari. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:57.166 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:57.175 [main] App - Partecipante estratto: Giulia C, Padova. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:57.411 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:57.419 [main] App - Partecipante estratto: Giancarlo, Bari. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:57.638 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:57.646 [main] App - Partecipante estratto: Giancarlo, Bari. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:57.862 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:57.869 [main] App - Partecipante estratto: Antonio, Padova. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:58.078 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:58.086 [main] App - Partecipante estratto: Giulia G, Padova. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:58.296 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:58.304 [main] App - Partecipante estratto: Lorena, Torino. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:58.514 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:58.521 [main] App - Partecipante estratto: Greta, Milano. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:58.740 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:58.748 [main] App - Partecipante estratto: Christian, Milano. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:58.961 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:58.970 [main] App - Partecipante estratto: Simone, Torino. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:59.186 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:59.194 [main] App - Partecipante estratto: Greta, Milano. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:59.403 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:59.418 [main] App - Partecipante estratto: Giulia C, Padova. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:59.609 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:59.616 [main] App - Partecipante estratto: Anselmo, Torino. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:09:59.836 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:09:59.843 [main] App - Partecipante estratto: Anselmo, Torino. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:10:00.339 [main] App - Scelta nel menu: 3
+[INFO ] 06-12-2023 16:10:00.346 [main] App - Lista delle estrazioni, ordinate per numero di estrazioni decrescente, stampata.
+[INFO ] 06-12-2023 16:10:05.369 [main] App - Scelta nel menu: 4
+[INFO ] 06-12-2023 16:10:05.583 [main] App - Documento PDF delle estrazioni creato.
+[INFO ] 06-12-2023 16:10:07.221 [main] App - Scelta nel menu: 5
+[INFO ] 06-12-2023 16:10:07.239 [main] App - Tabella estrazioni eliminata.
+[INFO ] 06-12-2023 16:10:07.240 [main] App - Tabella partecipante eliminata.
+[INFO ] 06-12-2023 16:10:07.251 [main] App - Processo reinizializzato.
+[INFO ] 06-12-2023 16:10:07.901 [main] App - Scelta nel menu: 0
+[INFO ] 06-12-2023 16:10:07.901 [main] App - Chiusura del programma.
+[INFO ] 06-12-2023 16:10:07.905 [main] App - Chiusura della connessione col DB.
+[INFO ] 06-12-2023 16:10:07.906 [main] App - Chiusura dello statement.
+[INFO ] 06-12-2023 16:41:45.222 [main] App - Connessione al DB esercizio_estrazioni eseguita.
+[INFO ] 06-12-2023 16:41:48.168 [main] App - Scelta nel menu: 1
+[INFO ] 06-12-2023 16:41:48.219 [main] App - Tabella partecipante creata.
+[INFO ] 06-12-2023 16:41:48.289 [main] App - Tabella estrazioni creata.
+[INFO ] 06-12-2023 16:41:48.367 [main] App - Tabella partecipanti popolata.
+[INFO ] 06-12-2023 16:41:49.143 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:41:49.207 [main] App - Partecipante estratto: Dino, Torino. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:41:50.405 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:41:50.432 [main] App - Partecipante estratto: Manuela, Torino. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:41:50.775 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:41:50.797 [main] App - Partecipante estratto: Simone, Roma. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:41:51.047 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:41:51.058 [main] App - Partecipante estratto: Giulia G, Padova. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:41:51.301 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:41:51.325 [main] App - Partecipante estratto: Eleonora, Treviso. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:41:51.522 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:41:51.532 [main] App - Partecipante estratto: Giulia C, Padova. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:41:51.765 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:41:51.772 [main] App - Partecipante estratto: Christian, Milano. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:41:51.999 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:41:52.013 [main] App - Partecipante estratto: Gianmarco, Roma. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:41:52.239 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:41:52.257 [main] App - Partecipante estratto: Lorena, Torino. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:41:52.451 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:41:52.457 [main] App - Partecipante estratto: Giuseppe, Roma. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:41:52.712 [main] App - Scelta nel menu: 2
+[INFO ] 06-12-2023 16:41:52.721 [main] App - Partecipante estratto: Christian, Milano. Inserito nella tabella estrazioni.
+[INFO ] 06-12-2023 16:41:53.212 [main] App - Scelta nel menu: 3
+[INFO ] 06-12-2023 16:41:53.218 [main] App - Lista delle estrazioni, ordinate per numero di estrazioni decrescente, stampata.
+[INFO ] 06-12-2023 16:41:54.670 [main] App - Scelta nel menu: 4
+[INFO ] 06-12-2023 16:41:55.330 [main] App - Documento PDF delle estrazioni creato.
+[INFO ] 06-12-2023 16:41:57.137 [main] App - Scelta nel menu: 5
+[INFO ] 06-12-2023 16:41:57.216 [main] App - Tabella estrazioni eliminata.
+[INFO ] 06-12-2023 16:41:57.216 [main] App - Tabella partecipante eliminata.
+[INFO ] 06-12-2023 16:41:57.260 [main] App - Processo reinizializzato.
+[INFO ] 06-12-2023 16:41:58.922 [main] App - Scelta nel menu: 0
+[INFO ] 06-12-2023 16:41:58.922 [main] App - Chiusura del programma.
+[INFO ] 06-12-2023 16:41:58.930 [main] App - Chiusura della connessione col DB.
+[INFO ] 06-12-2023 16:41:58.930 [main] App - Chiusura dello statement.
+[ERROR] 11-12-2023 09:54:39.952 [main] App - Errore nella query/connessione al DB: Access denied for user 'root'@'localhost' (using password: YES)
+[INFO ] 03-02-2024 17:37:37.855 [main] App - Connessione al DB esercizio_estrazioni eseguita.
+[INFO ] 03-02-2024 17:37:41.398 [main] App - Scelta nel menu: 1
+[INFO ] 03-02-2024 17:37:41.706 [main] App - Tabella partecipante creata.
+[ERROR] 03-02-2024 17:37:41.768 [main] App - Errore nella query/connessione al DB: Failed to add the foreign key constraint. Missing column 'id_partecipante' for constraint 'id_partecipante' in the referenced table 'partecipante'
+[INFO ] 03-02-2024 17:37:41.790 [main] App - Chiusura della connessione col DB.
+[INFO ] 03-02-2024 17:37:41.790 [main] App - Chiusura dello statement.
+[INFO ] 03-02-2024 17:43:57.801 [main] App - Connessione al DB esercizio_estrazioni eseguita.
+[INFO ] 03-02-2024 17:44:00.813 [main] App - Scelta nel menu: 1
+[INFO ] 03-02-2024 17:44:00.886 [main] App - Tabella partecipante creata.
+[ERROR] 03-02-2024 17:44:00.915 [main] App - Errore nella query/connessione al DB: Failed to add the foreign key constraint. Missing column 'id_partecipante' for constraint 'id_partecipante' in the referenced table 'partecipante'
+[INFO ] 03-02-2024 17:44:00.920 [main] App - Chiusura della connessione col DB.
+[INFO ] 03-02-2024 17:44:00.920 [main] App - Chiusura dello statement.
+[INFO ] 03-02-2024 17:54:56.802 [main] App - Connessione al DB esercizio_estrazioni eseguita.
+[INFO ] 04-02-2024 17:29:41.850 [main] App - Connessione al DB esercizio_estrazioni eseguita.
+[INFO ] 04-02-2024 17:29:44.837 [main] App - Scelta nel menu: 1
+[INFO ] 04-02-2024 17:29:49.788 [main] App - Tabella partecipante creata.
+[INFO ] 04-02-2024 17:29:50.767 [main] App - Tabella estrazioni creata.
+[INFO ] 04-02-2024 17:29:53.177 [main] App - Tabella partecipanti popolata.
+[INFO ] 04-02-2024 17:30:07.780 [main] App - Scelta nel menu: 2
+[INFO ] 04-02-2024 17:30:08.296 [main] App - Partecipante estratto: Simone, Roma. Inserito nella tabella estrazioni.
